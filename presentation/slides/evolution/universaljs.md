@@ -1,4 +1,4 @@
 ## Universal Javascript (Isomorphic)
 
-* Run JS Everywhere (browser and server)
-* Server rendering
+* Run JS Everywhere (browser, server, mobile, ioT, ...)
+* Server Side rendering

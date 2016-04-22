@@ -1,4 +1,10 @@
-## Ajax (2000)
+## Ajax (2000 - 2005)
 
 * JS talks to the server
-* No more page reloads!
+* Single Page Applications => No more page reloads!
+  * Google Gmail
+
+
+```JavaScript
+var req = new XMLHttpRequest()
+```

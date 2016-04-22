@@ -5,4 +5,4 @@
 * Lower the cross browser hell
 * jQuery plugins
 * jQuery UI
-* First DOM abstraction layer
+* Better DOM abstraction

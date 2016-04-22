@@ -1,8 +1,8 @@
-## MVC/MVVM Frameworks (2010)
+## MV-Whatever (2010)
 
-Angular/Backbone/Ember/Knockout
+### Angular/Backbone/Ember/Knockout
 
-* No more DOM manipulation
 * Keep your code organized
 * HTML Templates / Bindings
+* No more DOM manipulation
 * ES5 Specification

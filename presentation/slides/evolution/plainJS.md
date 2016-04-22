@@ -1,6 +1,6 @@
-## Plain JS with HTML (1995)
+## JavaScript and DHTML (90's)
 
-* Netscape JS
-* Don't compile, Dynamic? Functional? Where are the classes? I hate that.
-* Basic usage (DHTML) mixed with HTML
-* Coupled to the DOM
+* Make HTML Dynamic =>
+  * Animations, Form Validations, Counters ...
+* JS and DOM coupling.
+  * No Standards => Netscape vs IE
