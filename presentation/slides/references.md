@@ -4,4 +4,4 @@
 * [Learning React and Redux](https://css-tricks.com/learning-react-redux/)
 * [Redux](http://redux.js.org/index.html)
 * [ReactJS vs jQuery](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
-* [ReactJS vs Angular2](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.o2ipx454a)
+* [ReactJS vs Angular2](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
